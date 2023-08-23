@@ -7,6 +7,8 @@ namespace LibGit2Sharp.Tests
 {
     public class TestApp
     {
+        // this is branch 1
+
         [DllImport("kernel32")]
         private static extern IntPtr GetModuleHandle(string path);
 

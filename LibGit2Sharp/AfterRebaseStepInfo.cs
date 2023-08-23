@@ -5,6 +5,8 @@
     /// </summary>
     public class AfterRebaseStepInfo
     {
+        // This is branch 1
+
         /// <summary>
         /// Needed for mocking.
         /// </summary>
